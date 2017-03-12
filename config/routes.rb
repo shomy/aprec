@@ -10,5 +10,7 @@ root :to => "pages#index"
 
 get 'manage-listing/:id/basics' => 'listings#basics', as: 'manage_listing_basics'
 
+get '/search' => 'pages#search'
+
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
