@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company: MyString
+  tantou: MyString
+  kigyoutantou: MyString
+  tel: MyString
+  comment: MyText
+  address: MyString
+  active: false
+  user: one
+  bo: 1
+  yusendo: 1
+  syokusyu: MyString
+
+two:
+  company: MyString
+  tantou: MyString
+  kigyoutantou: MyString
+  tel: MyString
+  comment: MyText
+  address: MyString
+  active: false
+  user: two
+  bo: 1
+  yusendo: 1
+  syokusyu: MyString
